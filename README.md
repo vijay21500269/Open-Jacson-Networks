@@ -67,7 +67,7 @@ print("----------------------------------------------------------------------")
 ~~~
 
 ## Output
-![img]()
+![img](https://github.com/vijay21500269/Open-Jacson-Networks/blob/main/Exp6.png)
 
 ## Result
 Thus, the average number of material in the sysytem and in the conveyor and waiting time are successfully found using Open jackson network.
